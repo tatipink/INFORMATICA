@@ -22,6 +22,9 @@ Conhecer as plataformas e apresentar uma visualição clara e interativa dos dad
  > Power Automate
    ## PowerBi
   > ![Captura de tela 2024-06-07 192009](https://github.com/tatipink/INFORMATICA/assets/163483638/127eeff6-8ee0-4d35-bc33-a2d8983c2299)
+   ## Excel
+   > ![atividade_excel](https://github.com/tatipink/INFORMATICA/assets/163483638/9b77217d-d4ea-4cd0-a02b-da8b497ae071)
+
 
    ## PowerPoint
   > ![1](https://github.com/tatipink/INFORMATICA/assets/163483638/b73fb138-e634-4758-aebd-46a15020fefa)
