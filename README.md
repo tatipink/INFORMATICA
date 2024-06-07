@@ -21,13 +21,14 @@ Conhecer as plataformas e apresentar uma visualição clara e interativa dos dad
 
  > Power Automate
    ## PowerBi
-  >![Captura de tela 2024-06-06 221836](https://github.com/tatipink/INFORMATICA/assets/163483638/a104f5b6-1869-4485-ab13-d0f0de793cab)
+  > ![Captura de tela 2024-06-07 192009](https://github.com/tatipink/INFORMATICA/assets/163483638/127eeff6-8ee0-4d35-bc33-a2d8983c2299)
+
    ## PowerPoint
   > ![1](https://github.com/tatipink/INFORMATICA/assets/163483638/b73fb138-e634-4758-aebd-46a15020fefa)
 
   >![3](https://github.com/tatipink/INFORMATICA/assets/163483638/5c798ec6-a16a-49eb-959e-5e1e2409d2b0)
 
-  > ![8](https://github.com/tatipink/INFORMATICA/assets/163483638/a0f022fb-9ee6-46bc-b036-6060c7a0ce55)
+  > ![Lilás Negrito Moderno Assistência Médica Apresentação de Novato Apresentação](https://github.com/tatipink/INFORMATICA/assets/163483638/a44f1ba5-651f-4cfa-883a-2c0b0a9a1ae5)
 
 
 
