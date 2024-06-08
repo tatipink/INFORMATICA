@@ -37,3 +37,7 @@ Conhecer as plataformas e apresentar uma visualição clara e interativa dos dad
 
    ## Power Apps
    >![Capturar](https://github.com/tatipink/ASSMECA/assets/163483638/3e2b62ef-744d-47d1-8290-dcb2916b4733)
+
+   ## Power Automate
+   > ![PNG](https://github.com/tatipink/INFORMATICA/assets/163483638/108bb588-0ec7-4d20-b047-e0586ae0d5c7)
+
