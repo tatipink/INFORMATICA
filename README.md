@@ -21,7 +21,7 @@ Conhecer as plataformas e apresentar uma visualição clara e interativa dos dad
 
  > Power Automate
    ## PowerBi
-   ### Exportação de dados do ANTT Dados abertos e realização de três gráficos diferentes.
+   ### Exportação de dados ANTT Dados Abertos (Bilhetes de passagem) e realização de três gráficos diferentes.
   > ![Captura de tela 2024-06-07 192009](https://github.com/tatipink/INFORMATICA/assets/163483638/127eeff6-8ee0-4d35-bc33-a2d8983c2299)
    ## Excel
    ### Aplicação de fórmulas e criação de gráficos
